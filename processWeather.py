@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import seaborn as sns
 
+#beautiful plots
 sns.set(rc={'figure.figsize':(11, 4)})
 
 
